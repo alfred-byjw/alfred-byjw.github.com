@@ -1,34 +1,25 @@
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://alfred-byjw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title:              Alfred
+email:              alfred.byjw@gmail.com
+description:        Build Smart Home
+author:             Alfred
+baseurl:            ""
+url:                "https://alfred-byjw.github.io"
+
+# Social Profiles
+twitter_username:
+github_username:
+facebook_username:
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
-markdown: kramdown
-permalink: pretty
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
 plugins:
-  - jekyll-sitemap
-compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
-
-# Pages Path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
-
-include:
-  - _pages
-
-sass:
-  sass_dir: assets/scss
-  style: compressed
-
-# Exclude from processing.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.text
-  - README.md
-  - SECURITY.md
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
