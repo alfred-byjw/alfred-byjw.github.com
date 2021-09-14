@@ -11,8 +11,8 @@ address: Seoul, South Korea
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
+  - {name: Home, link: '/blog'}
+  - {name: About, link: '/about'}
 #- {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
