@@ -1,1 +1,1 @@
-# alfred-byjw.github.com
+# [http://alfred-byjw.github.io](http://alfred-byjw.github.io)
