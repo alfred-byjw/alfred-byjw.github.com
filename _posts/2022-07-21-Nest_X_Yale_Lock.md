@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "구글의 Nest X Yale Lock"
-description: "구글의 스마트 도어락"
+description: "구글에서 나온 스마트 도어락"
 date:   2022-07-21 15:01:35 +0300
-image:  '/images/yale-lock.webp'
+image:  '/images/yale-lock.jpeg'
 tags:   [google, doorlock]
 ---
 
