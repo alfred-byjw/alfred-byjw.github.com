@@ -3,8 +3,8 @@ layout: post
 title: "구글의 스마트홈 제품들"
 description: "구글에서 나오는 스마트홈 제품들에 대해서 알아보려고 합니다"
 date:   2022-01-27 15:01:35 +0300
-image:  '/images/11.jpg'
-tags:   [lifestyle, fashion, study]
+image:  '/images/google-products.png'
+tags:   [google]
 ---
 
 # Google? vs Nest? vs Google Nest?
@@ -19,9 +19,9 @@ tags:   [lifestyle, fashion, study]
 
 `Google Nest` 내부에 다양한 제품들이 있지만 대표적인 제품들 위주로 간단히 소개를 해보고자 합니다.
 
-<img src="https://lh3.googleusercontent.com/UCjB2uyU3UcH5POjpqPmm3YiDjB8ylTG5C4ioKGYHQTyU6CeU2tKn-upr1X_MlzelMtFV8hzFp5f2-RqW0oEM0FIZYPKCP6QI0c=rw-e365-w2880" width="300">
+### [Nest Hub](https://store.google.com/us/product/nest_hub_2nd_gen?hl=en-US)
 
-> [Nest Hub](https://store.google.com/us/product/nest_hub_2nd_gen?hl=en-US)
+<img src="https://lh3.googleusercontent.com/UCjB2uyU3UcH5POjpqPmm3YiDjB8ylTG5C4ioKGYHQTyU6CeU2tKn-upr1X_MlzelMtFV8hzFp5f2-RqW0oEM0FIZYPKCP6QI0c=rw-e365-w2880" width="300">
 
 - 이름 : Nest Hub
 - 가격 : $99.99 (공식홈 기준)
@@ -34,10 +34,11 @@ tags:   [lifestyle, fashion, study]
 
 ---
 
+### [Nest Doorbell](https://store.google.com/us/product/nest_doorbell_battery?hl=en-US)
+
 <img src="https://i.pcmag.com/imagery/reviews/055CVrt00oR9zHWfxZowsYZ-1..v1631114083.jpg" width="300">
 <img src="https://multimedia.bbycastatic.ca/multimedia/products/500x500/122/12222/12222651_5.jpg" width="300">
 
-> [Nest Doorbell](https://store.google.com/us/product/nest_doorbell_battery?hl=en-US)
 - 이름 : Nest Doorbell
 - 가격 : $179.99 (공식홈 기준)
 - 기능
@@ -49,9 +50,10 @@ tags:   [lifestyle, fashion, study]
 
 ---
 
+### [Chromecast with Google TV](https://store.google.com/us/product/chromecast_google_tv?hl=en-US)
+
 <img src="https://lh3.googleusercontent.com/7vxGbgFArMQ3DZ4kYmLuuSOYyynyMMEnpYy_EITwrnP2y5beVTsLVsJqN0y4lXq5w_peM2bj0MljAmjMYCUcYg=w1000" width="300">
 
-> [Chromecast with Google TV](https://store.google.com/us/product/chromecast_google_tv?hl=en-US)
 - 이름 : Chromecast with Google TV
 - 가격 : $49.99 (공식홈 기준)
 - 기능
@@ -60,9 +62,10 @@ tags:   [lifestyle, fashion, study]
 
 ---
 
+### [Nest Cam](https://store.google.com/us/product/nest_cam_battery?hl=en-US)
+
 <img src="https://lh3.googleusercontent.com/dDojpn4p1E4hQAv56HGU0hYeqlMGohO--zMNRnadhXr78IPSuu_GxIKKZ0ZPs3oIvh9RZkNPMrr6cSS39W498JKv6N2gIo1xG1o=rw-e365-w2880" width="300">
 
-> [Nest Cam](https://store.google.com/us/product/nest_cam_battery?hl=en-US)
 - 이름 : Nest Cam
 - 가격 : $179.99 (공식홈 기준)
 - 기능
@@ -74,9 +77,10 @@ tags:   [lifestyle, fashion, study]
 
 ---
 
+### [Nest x Yale Lock](https://store.google.com/us/product/nest_x_yale_lock?hl=en-US)
+
 <img src="https://m.media-amazon.com/images/I/71Jg-ABCbXL._AC_SL1500_.jpg" width="300">
 
-> [Nest x Yale Lock](https://store.google.com/us/product/nest_x_yale_lock?hl=en-US)
 - 이름 : Nest x Yale Lock
 - 가격 : $249 (공식홈 기준)
 - 기능
@@ -87,10 +91,11 @@ tags:   [lifestyle, fashion, study]
 
 ---
 
+### [Nest Wifi](https://store.google.com/us/product/nest_wifi?hl=en-US)
+
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTZfMTg3/MDAxNTcxMjA5NDc0MDQw.4gOkADdi4s3EYdL6zkdp3CqWemCzfu2N-XIJ2LilTVwg.v82a670Ppt4OWnA1xAs3vz6unses39qtgXNhprkhb-8g.JPEG.phs_0113/6bf24bcccd32650e52088a5fb051d10f.jpg?type=w800" width="300">
 <img src="https://live.staticflickr.com/65535/49302436523_32ba628774_b.jpg" width="300">
 
-> [Nest Wifi](https://store.google.com/us/product/nest_wifi?hl=en-US)
 - 이름 : Nest Wifi
 - 가격 : $149 (공식홈 기준)
 - 기능
@@ -102,9 +107,10 @@ tags:   [lifestyle, fashion, study]
 
 ---
 
+### [Nest Thermostat](https://store.google.com/us/product/nest_learning_thermostat_3rd_gen?hl=en-US)
+
 <img src="https://lh3.googleusercontent.com/35_SyrSZA_ivPQGhvcbc6s4Tm7b2VjRQHS_rRpFpi4WpaSBg21rYY1Pm0qX6ajASnV70mR4iicR8wniZEbsXeobCVr3HPI_VswI=rw-e365-w2880" width="300">
 
-> [Nest Thermostat](https://store.google.com/us/product/nest_learning_thermostat_3rd_gen?hl=en-US)
 - 이름 : Nest Thermostat
 - 가격 : 249 (공식홈 기준)
 - 기능
@@ -113,9 +119,10 @@ tags:   [lifestyle, fashion, study]
 
 ---
 
+### [Nest Protect smoke and CO alarm](https://store.google.com/us/product/nest_protect_2nd_gen?hl=en-US)
+
 <img src="https://images.thdstatic.com/productImages/17692e35-1f5a-48cd-9b40-c9e7dc8f44ea/svn/google-smart-smoke-carbon-monoxide-detectors-s3000bwes-64_600.jpg" width="300">
 
-> [Nest Protect smoke and CO alarm](https://store.google.com/us/product/nest_protect_2nd_gen?hl=en-US)
 - 이름 : Nest Protect smoke and CO alarm
 - 가격 : $119 (공식홈 기준)
 - 기능
@@ -123,9 +130,10 @@ tags:   [lifestyle, fashion, study]
 
 ---
 
+### [Nest Temperature Sensor](https://store.google.com/us/product/nest_temperature_sensor?hl=en-US)
+
 <img src="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6221/6221357cv11a.jpg" width="300">
 
-> [Nest Temperature Sensor](https://store.google.com/us/product/nest_temperature_sensor?hl=en-US)
 - 이름 : Nest Temperature Sensor
 - 가격 : $39 (공식홈 기준)
 - 기능
@@ -133,9 +141,10 @@ tags:   [lifestyle, fashion, study]
 
 ---
 
+### [Nest Audio](https://store.google.com/us/product/nest_audio?hl=en-US)
+
 <img src="https://i.pcmag.com/imagery/reviews/04EXgV7m2A5Q0ZKbsGnd48C-1..v1601579061.jpg" width="300">
 
-> [Nest Audio](https://store.google.com/us/product/nest_audio?hl=en-US)
 - 이름 : Nest Audio
 - 가격 : $99.99 (공식홈 기준)
 - 기능
