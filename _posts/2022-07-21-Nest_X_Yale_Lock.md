@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "구글의 Nest X Yale Lock"
-subtitle: "구글의 스마트 도어락"
-background: '/img/posts/02.jpg'
+description: "구글의 스마트 도어락"
+date:   2022-07-21 15:01:35 +0300
+image:  '/images/12.jpg'
+tags:   [lifestyle, fashion, study]
 ---
 
 

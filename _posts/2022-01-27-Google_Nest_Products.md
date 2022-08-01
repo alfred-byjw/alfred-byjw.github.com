@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "구글의 스마트홈 제품들"
-subtitle: "구글에서 나오는 스마트홈 제품들에 대해서 알아보려고 합니다"
-background: '/img/posts/02.jpg'
+description: "구글에서 나오는 스마트홈 제품들에 대해서 알아보려고 합니다"
+date:   2022-01-27 15:01:35 +0300
+image:  '/images/11.jpg'
+tags:   [lifestyle, fashion, study]
 ---
 
 # Google? vs Nest? vs Google Nest?
