@@ -12,15 +12,12 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Alfred
-  author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  author__avatar: '/images/01-1.jpg'
+  author__bio: SmartHome, IoT, Google Home, Apple Home 등 스마트 홈에 대한 개인적인 경험 및 다양한 내용을 정리하는 블로그입니다.
+  author__avatar: '/images/logo-alfred.png'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 - {icon: "ion-logo-youtube", link: "https://youtube.com"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -30,8 +27,8 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Alfred
-  hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  hero__image: '/images/01.jpg'
+  hero__description: SmartHome, IoT, Google Home, Apple Home 등 스마트 홈에 대한 다양한 내용을 정리하는 블로그입니다.
+  hero__image: '/images/smart-home.png'
 
 
 #-------------------------------
@@ -44,28 +41,28 @@ mailchimp__button__text: Get a new tip
 
 #-------------------------------
 # Gallery Footer Section
-gallery:
-  gallery__title: Gallery
-  gallery__columns: 3
-  gallery__images:
-    - alt: 'Rest'
-      url: '/images/100.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/101.jpg'
-    - alt: 'Hobby'
-      url: '/images/102.jpg'
-    - alt: 'Notes'
-      url: '/images/103.jpg'
-    - alt: 'Rest'
-      url: '/images/104.jpg'
-    - alt: 'Hobby'
-      url: '/images/105.jpg'
-    - alt: 'Fashion'
-      url: '/images/106.jpg'
-    - alt: 'Notes'
-      url: '/images/107.jpg'
-    - alt: 'Rest'
-      url: '/images/108.jpg'
+#gallery:
+#  gallery__title: Gallery
+#  gallery__columns: 3
+#  gallery__images:
+#    - alt: 'Rest'
+#      url: '/images/100.jpg'
+#    - alt: 'Lifestyle'
+#      url: '/images/101.jpg'
+#    - alt: 'Hobby'
+#      url: '/images/102.jpg'
+#    - alt: 'Notes'
+#      url: '/images/103.jpg'
+#    - alt: 'Rest'
+#      url: '/images/104.jpg'
+#    - alt: 'Hobby'
+#      url: '/images/105.jpg'
+#    - alt: 'Fashion'
+#      url: '/images/106.jpg'
+#    - alt: 'Notes'
+#      url: '/images/107.jpg'
+#    - alt: 'Rest'
+#      url: '/images/108.jpg'
 
 
 #-------------------------------
