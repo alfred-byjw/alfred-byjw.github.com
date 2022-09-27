@@ -25,69 +25,66 @@ tags:   [google, nest]
 
 ## 개봉기
 
-![](https://miro.medium.com/max/4800/1*dYaQ42p3CEyGTDuPp66Otg.jpeg)
+![](https://miro.medium.com/max/1100/1*oLILZ0Im4UvoEUkscLEoig.jpeg)
 
-제품을 받으면 위 이미지와 같은 상자를 확인할 수 있습니다.
+제품을 받으면 위 이미지와 같은 상자를 확인할 수 있습니다. 저는 배터리 버전을 구매하였기 때문에 하단에 배터리라고 써있습니다.
 
-![](https://miro.medium.com/max/4800/1*y6mw9pS-P2RSPrt_KHS_Xg.jpeg)
+(와이어 버전은 선을 연결하기 위해 타공을 하고 해야하는데 그게 너무 귀찮아서 배터리 버전을 구매하였습니다.)
 
-상자 뒤에는 간단히 네스트 허브가 장식된 이미지만 있네요
+![](https://miro.medium.com/max/1100/1*WKyNVvCw_jzH8iHdZ4Cvbg.jpeg)
 
-![](https://miro.medium.com/max/4800/1*9ERubMJ-buPxXCQgNt2K0Q.jpeg)
+우측에는 제품의 스펙이 적혀 있습니다.
 
-우측에는 지원되는 앱들과 할 수 있는 기능들이 써 있습니다.
+![](https://miro.medium.com/max/1100/1*WwgIho2OtCMRQ3XKnIoOaw.jpeg)
 
-![](https://miro.medium.com/max/4800/1*NCby9E2EnsX_acYHMKZEKw.jpeg)
+좌측에는 간단한 기능들이 적혀 이쏙 하단에 "Hey Google"이 지원됨을 알 수 있습니다.
 
-좌측에는 좀 더 디테일하게 기능들이 써 있습니다.
+![](https://miro.medium.com/max/1100/1*lhNzwTVP01MDGg-m03ZkGg.jpeg)
 
-![](https://miro.medium.com/max/4800/1*xi2kmwldtYCoY5C4VXt21w.jpeg)
+뒤에는 벨을 눌렀을때 실제 폰에서 볼 수 있는 화면이 이미지로 있습니다.
 
-위에는 단순히 구글 로고만 있고
+![](https://miro.medium.com/max/1100/1*SrUj2cGDsrMgiN1IKRuj5Q.jpeg)
 
-![](https://miro.medium.com/max/4800/1*P8Yty4ScE1lReypCZlQHaQ.jpeg)
+위에는 구글 로고만 있고
 
-하단에는 제품명과 간단한 설명 및 바코드들이 있습니다.
+![](https://miro.medium.com/max/1100/1*QbJ6_4-ZPrfm0wp2uuy6AQ.jpeg)
 
-![](https://miro.medium.com/max/4800/1*BWOE4xSVDZw1aYVGco50cQ.png)
+하단에는 제품의 바코드가 있네요
 
-상자를 열어보면 본체가 가장 먼저 보입니다.
+![](https://miro.medium.com/max/1100/1*p8DemWhtaU6QeOCXQEDj1A.png)
 
-![](https://miro.medium.com/max/4800/1*S8e7ukSWqcq-vnNo2vI6lQ.png)
+상자를 열면 바로 제품이 보입니다.
 
-본체 우측에는 볼륨을 조절할 수 있는 키가 있습니다. (소프트웨어적으로도 설정 가능합니다)
+![](https://miro.medium.com/max/1100/1*2V054jCZKglcbi-nbsvaVQ.png)
 
-![](https://miro.medium.com/max/4800/1*TsqRsmPeZkmIEQxftQOihA.png)
+뒤에는 거치대에 고정을 시킬 수 있는 핀(하단)과 충전할 수 있는 포트(USB-C) 그리고 전선을 연결할 수 있는 나사도 보입니다.
 
-디스플레이 바로 뒷면에는 마이크 허용을 할 수 있는 스위치가 있습니다. 그리고 하단에는 전원 케이블이 있는데
-전용 케이블이 별도로 있고 회색 부분이 스피커 영역입니다.
+![](https://miro.medium.com/max/1100/1*BEjWXtM6_S6mWGwu6FlILw.png)
 
-![](https://miro.medium.com/max/4800/1*S-qiJvcv2vbdWXvGcH7_rg.png)
+제품 아래에는 설명서가 보이고
 
-상자 아래에는 설명서와 전원 케이블이 보입니다.
+![](https://miro.medium.com/max/1100/1*kZgWbXRdnprTTkAamEJFGQ.png)
 
-![](https://miro.medium.com/max/4800/1*2bml7AL_w-b3JcFJMJHrKA.png)
+그 아래에는 다음과 같은 구성품이 있습니다.
 
-저는 직구를 하였기 때문에 돼지코가 들어있지만 이번에 정발을 해서 [한국 구글 스토어](https://store.google.com)에서
-구입하면 한국 규격에 맞는 전원 케이블이 들어 있습니다.
+![](https://miro.medium.com/max/1100/1*sIuJzOTUGJa9IGhHC-1NzQ.png)
 
-![](https://miro.medium.com/max/4800/1*T0Zwwa0dLbudAxriNElldw.png)
+먼저 거치대가 크게 두 종류가 있는데, 오른쪽의 쇠로 된 부분이 거치대이고 왼쪽은 각도를 주고 싶을때 추가로 쓸 수 있는 악세사리입니다.
 
-상자안에는 본체와 케이블의 심플한 구성으로 되어 있습니다.
+![](https://miro.medium.com/max/1100/1*3Q7ISwLp8B_MAGDdoBJ_sQ.png)
+
+상자 안에는 도어벨을 거치대에서 분리할때 필요한 키(?)가 먼저 보입니다. 위의 키를 누르고 당겨야 분리가 됩니다.
+
+![](https://miro.medium.com/max/1100/1*_19jRWj_IVyf3ihVKynS8w.png)
+
+그 아래에는 전선 작업을 위한 구성품들이 있습니다.
 
 ---
 
 ## 마무리
 
-`한국 구글 스토어 기준`으로 정가는 `125,000원`인데, 네이버 최저가 기준으로 잘 찾아보면 `70,000~80,000원`
-사이에서도 직구 제품을 구할 수 있습니다. 또 여러개 사면 좀 더 싸게 사는 이벤트들도 가끔 있어서 이런 이벤트를
-통해서 구매하면 좀 더 저렴하게 구입할 수 있습니다.
-
-저 같은 경우는 방마다 네스트 홈을 두고 집 안의 `스마트홈기기들을 제어`하거나, `블루투스 스피커`의 용도로 주로 사용합니다.
-
-물론 음질은 그렇게 좋지 않지만, 페어링 하고 할 필요 없이 `헤이 구글 유튜브 뮤직에서 추천 음악 재생해줘` 등의 간단한 명령만으로
-음악을 들을 수 있다는 점에서는 꽤 자주 사용하고 있고 부엌에서는 타이머를 맞추거나 유튜브에서 레시피 영상을 찾거나 하는 용도로 
-자주 사용합니다.
+이렇게 해서 네스트 도어벨 개봉기를 마무리 하겠습니다. 개인적으로 샀던 제품 중에 가장 만족도가 높은 제품으로 언제든 핸드폰을 통해서
+연결이 되고 사람이나 움직임이 감지되었을때 자동으로 녹화를 해주기 때문에 택배 분실이나 이런 부분에서도 안심을 할 수 있었습니다.
 
 다음 포스팅에서는 좀 더 다양한 기능들에 대해서도 포스팅해보도록 하겠습니다.
 
