@@ -2,7 +2,7 @@
 layout: post
 title: "구글의 Nest Doorbell 개봉기"
 description: "언제 어디서든 집을 확인 할 수 있는 도어벨"
-date:   2022-09-27 15:01:35 +0300
+date:   2022-09-25 15:01:35 +0300
 image:  '/images/nest-doorbell.png'
 tags:   [google, nest]
 ---
