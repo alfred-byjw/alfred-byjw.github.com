@@ -7,7 +7,6 @@ image:  '/images/nest-doorbell.png'
 tags:   [google, nest]
 ---
 
-
 ## Nest Doorbell
 
 ![](https://miro.medium.com/max/2000/1*kYGQQVtBiOi5Kcjxs7DtPA.png)
