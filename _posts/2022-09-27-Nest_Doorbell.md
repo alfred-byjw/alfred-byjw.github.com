@@ -7,6 +7,7 @@ image:  '/images/nest-doorbell.png'
 tags:   [google, nest]
 ---
 
+
 ## Nest Doorbell
 
 ![](https://miro.medium.com/max/2000/1*kYGQQVtBiOi5Kcjxs7DtPA.png)
@@ -40,7 +41,7 @@ tags:   [google, nest]
 
 ![](https://miro.medium.com/max/1100/1*lhNzwTVP01MDGg-m03ZkGg.jpeg)
 
-뒤에는 벨을 눌렀을때 실제 폰에서 볼 수 있는 화면이 이미지로 있습니다. 
+뒤에는 벨을 눌렀을때 실제 폰에서 볼 수 있는 화면이 이미지로 있습니다.
 
 ![](https://miro.medium.com/max/1100/1*SrUj2cGDsrMgiN1IKRuj5Q.jpeg)
 
@@ -64,7 +65,7 @@ tags:   [google, nest]
 
 ![](https://miro.medium.com/max/1100/1*kZgWbXRdnprTTkAamEJFGQ.png)
 
-그 아래에는 다음과 같은 구성품이 있습니다. 
+그 아래에는 다음과 같은 구성품이 있습니다.
 
 ![](https://miro.medium.com/max/1100/1*sIuJzOTUGJa9IGhHC-1NzQ.png)
 
