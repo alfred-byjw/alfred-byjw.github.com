@@ -8,22 +8,18 @@ tags:   [google, nest]
 ---
 
 
-## Nest Hub 2세대
+## Nest Doorbell
 
-![](https://lh3.googleusercontent.com/X22OoADh0dpO4mjTUF9A7JPUOtIM7v5U0rZX0PeMIoTD-6wcQzA9gmXzWw847tj1BhyVa12xL4eqIb87yX_mA7d9DXo9gP9wFgo=rw-e365-w2880)
+![](https://miro.medium.com/max/2000/1*kYGQQVtBiOi5Kcjxs7DtPA.png)
 
-예전에 `Google Home Hub`라고도 불렸던 `Nest Hub`는 가장 큰 특징으로는 7인치의 디스플레이와 스피커가 있고
-구글의 기기 뿐 아니라 `Google Home`을 지원하는 기기들을 한곳에 연결하고 명령하고 싶을때 사용하면 좋은 기기입니다.
+개인적으로 나만의 공간이 생기면서 가장 먼저 설치하고 싶었던 제품으로 구글에서 나온 도어벨입니다.
+일단 디자인도 너무 이뻤고, 실시간으로 집을 모니터링 할 수 있는 부분이 너무 좋았습니다.
 
 기능으로는 아래와 같이 있습니다.
 
-- `유튜브`, `넷플릭스`, `디즈니+` 등 `Vod 재생`
-- `유튜브 뮤직` 및 블루투스로 `음악재생`이 가능한 `스피커`
-- `탁상용 디지털 시계` 및 `날씨 정보` 표시
-- `스마트 기기`들 연결
-- `수면분석` (Nest Hub 2세대 한정)
-- `Google Meet(구 Duo 통합)`로 통화
-- 그 외 `Hey, Google`이 지원해주는 기능들 
+- 실시간으로 현관 앞 모니터링
+- 물체 및 사람 감지로 자동으로 저장
+- 집 밖에 있어도 핸드폰 알림으로 바깥 확인
 
 ---
 
