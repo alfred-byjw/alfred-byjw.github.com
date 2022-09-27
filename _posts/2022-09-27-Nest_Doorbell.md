@@ -58,8 +58,6 @@ tags:   [google, nest]
 
 뒤에는 거치대에 고정을 시킬 수 있는 핀(하단)과 충전할 수 있는 포트(USB-C) 그리고 전선을 연결할 수 있는 나사도 보입니다.
 
-> 배터리 버전이지만 전선을 연결해서도 사용이 가능합니다
-
 ![](https://miro.medium.com/max/1100/1*BEjWXtM6_S6mWGwu6FlILw.png)
 
 제품 아래에는 설명서가 보이고
