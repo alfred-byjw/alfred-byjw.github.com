@@ -5,31 +5,23 @@ permalink: /about/
 image: '/images/01-2.jpg'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+안녕하세요 알프레드입니다
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+개인적으로 스마트홈에 관심이 많아서 몇몇 제품을 하나 하나 추가하며
+집을 꾸미는 와중에 설치가 한번에 되지 않고 설치를 하다가 보면
+동작이 예상했던대로가 아닌 다르게 동작하는게 많았고 해당 경험들을
+기록하고 정리하다가 이러한 부분들을 온라인에 공개하면 다른 분들도 
+도움이 되겠다 싶어서 이렇게 블로그를 하게 되었습니다.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+구글의 Nest에 관심이 있다가 보니 구글 제품들 위주로 리뷰가 우선적으로 진행이 되었는데,
+애플도 관심이 많고(아직... 지원하는 기기가 많이 없어서...) Home Assistant에도 
+관심이 많아 앞으로는 더 다양한 내용들을 포스팅할 예정입니다.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/102.jpg">
-    <img src="/images/105.jpg">
-    <img src="/images/107.jpg">
+    <img src="https://lh3.googleusercontent.com/rObGC59qIher5GaWR1IcakUeK-jbx83T16CVqSB_dvbgoov1-Kv6oFGYLB26Xg0gAam1--TgRGy68b7B_nbBcKgeiqXZ_vcohA=rw-e365-w2880">
+    <img src="https://lh3.googleusercontent.com/wW9Ytspu-MVJ0G0FioHe02A6FhUr8Yit2Xgv0KZcTjBk82yXvUt3CM7aLaEottKBa17Y_XRphSL2M22hFdh55423-BD07fJf4-Q=rw-e365-w1300">
+    <img src="https://lh3.googleusercontent.com/Rzwjd3LTwZxVeukoeTliMiOMk3Uo7P6DUwJP5HZ9E2WkFucQ_3ZYXYJcENay8Fi9_hMF99eCO9ZX5x8GaWd9CtEYgZnoniM-Mg=rw-e365-w1700">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Google Home/ <a href="https://unsplash.com/" target="_blank">Google Nest</a></em>
 </div>
-
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
-
-### Synergistically evolve
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-<p><iframe src="https://www.youtube.com/embed/gghgYaYeG_M" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
-
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
