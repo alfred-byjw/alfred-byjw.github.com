@@ -2,7 +2,7 @@
 # Site Settings
 title: Alfred
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Smart Home 관련 포스팅
+description: 스마트 홈에 관한 다양한 내용 및 정리를 하는 블로그입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alfred-byjw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -26,7 +26,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Alfred
+  hero__title: Smart Home 전문 블로그 알프레드 입니다.
   hero__description: SmartHome, IoT, Google Home, Apple Home 등 스마트 홈에 대한 다양한 내용을 정리하는 블로그입니다.
   hero__image: '/images/smart-home.png'
 
