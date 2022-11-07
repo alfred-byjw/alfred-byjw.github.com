@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01-2.jpg'
+image: '/images/02.jpg'
 ---
 
 안녕하세요 알프레드입니다
