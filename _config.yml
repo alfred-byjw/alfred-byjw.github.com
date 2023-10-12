@@ -69,7 +69,7 @@ mailchimp__button__text: Get a new tip
 # Contact Settings
 contact:
   email: alfred.byjw@gmail.com # Add your email for contant form
-  description: Menso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  description: 안녕하세요. 알프레드입니다. 연락이 필요하시면 아래 폼을 통해서 편하게 연락을 주세요
 
 # NOTE
 # Menso theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
