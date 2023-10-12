@@ -10,7 +10,7 @@ tags:   [google, ha]
 
 ## GoogleHome에 HomeAssistant 연동하기
 
- 이번에는 Home Assistant에 연동된 기기들을 Google Home에 연동해보도록 하겠습니다. 이렇게 하면
+이번에는 Home Assistant에 연동된 기기들을 Google Home에 연동해보도록 하겠습니다. 이렇게 하면
 Nest Home 같은 구글 기기들을 이용해 Home Assistant에 연동된 기기들을 제어할 수 있습니다.
 
 ![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Gp66qLd_tVJLTfbXMbPxVw.png)
