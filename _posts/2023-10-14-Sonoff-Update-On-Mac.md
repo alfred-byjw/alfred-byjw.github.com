@@ -3,7 +3,7 @@ layout: post
 title: "맥(Mac)에서 소노프 지그비(Sonoff Zigbee) 업데이트 하기"
 description: "맥(Mac)에서 소노프 지그비(Sonoff Zigbee) 업데이트 하기"
 date:   2023-10-12 15:01:35 +0300
-image:  '/images/zemismart.png'
+image:  '/images/sonoff.png'
 tags:   [ha, zigbee]
 ---
 
