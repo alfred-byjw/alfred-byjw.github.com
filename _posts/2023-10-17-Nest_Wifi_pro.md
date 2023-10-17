@@ -3,7 +3,7 @@ layout: post
 title: "Google Nest Wifi Pro 개봉기"
 description: "Google Nest Wifi Pro 개봉기"
 date:   2023-10-17 15:01:35 +0300
-image:  'nest-wifi-pro.png'
+image:  '/images/nest-wifi-pro.png'
 tags:   [google, device, nest]
 ---
 
