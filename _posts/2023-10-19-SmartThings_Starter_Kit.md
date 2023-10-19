@@ -3,7 +3,7 @@ layout: post
 title: "스마트싱스 스타터킷 개봉기"
 description: "스마트싱스 스타터킷 개봉기"
 date:   2023-10-17 15:01:35 +0300
-image:  '/images/nest-wifi-pro.png'
+image:  '/images/st-starter.png'
 tags:   [google, device, nest]
 ---
 
